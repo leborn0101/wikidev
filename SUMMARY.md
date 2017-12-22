@@ -53,7 +53,7 @@
 * [Snackbars 与 Toasts](components/snackbars-and-toasts.md)
 * [副标题](components/subheaders.md)
 * [开关](components/switches.md)
-* [Tabs](components/tabs.md)
+* Tabs
 * [文本框](components/text-fields.md)
 * [工具提示](components/tooltips.md)
 
