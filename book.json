@@ -22,7 +22,7 @@
 
     "pluginsConfig": {
         "sitemap-general": {
-            "prefix": "http://zitiao.org/material-design/"
+            "prefix": "http://211.159.159.156:4000/wiki/"
         }
     }
 }
