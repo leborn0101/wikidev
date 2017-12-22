@@ -4,7 +4,7 @@
     "head_title": "persional wiki",
     "head_description": "记录所思所想的全部",
     "head_keywords": "Cherry， Leborn， wiki",
-    "logo": "./images/logo.png",
+    "logo": "./images/logo.jpg",
 
     "gitbook": ">= 3.0.0",
 
