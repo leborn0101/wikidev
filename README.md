@@ -1,4 +1,4 @@
-# PERSIONAL WIKI
+# Personal Wiki
 
 **申明：此网站仅供Leborn和Cherry使用。**
 
